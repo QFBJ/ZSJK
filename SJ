@@ -103,13 +103,6 @@
             "name": "🐉云星日记"
         },
         {
-            "url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
-            "name": "🐉云星阿里"
-        },{
-            "url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8",
-            "name": "🐉云星哔哩"
-        },        
-        {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
             "name": "🐉月光宝盒"
         },                      
