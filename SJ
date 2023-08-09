@@ -29,10 +29,7 @@
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🐉道长线路"
         },                
-        {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "🐉小苹果线路"
-        },
+        
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🐉小米路线"
@@ -42,7 +39,7 @@
             "name": "🐉运输车线路"
         },
         {
-            "url": "https://download.kstore.space/download/3313/mao/ymz",
+            "url": "https://download.kstore.space/download/3313/mao/ymxx",
             "name": "🐉夜猫子线路"
         },
         {
