@@ -46,7 +46,7 @@
             "name": "🐉道长线路"
         },
         {
-            "url": "https://agit.ai/https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+            "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
             "name": "🐉业余分享"
         },
         
