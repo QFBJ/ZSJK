@@ -10,7 +10,11 @@
 
 {"sourceName":"千方影视本地仓库","sourceUrl":"clan://localhost/tvboxqq/本地仓.txt"},
 
-{"sourceName":"百纪影视本地仓库","sourceUrl":"clan://localhost//TVBox/本地仓库.json"}
+{"sourceName":"百纪影视本地仓库","sourceUrl":"clan://localhost//TVBox/本地仓库.json"},
+
+{"sourceName":"百晓生本地总仓库","sourceUrl":"clan://localhost/百晓生影视/兵器谱.txt"},
+
+{"sourceName":"百晓生在线总仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/百晓生影视/兵器谱.json"}
 
 ]
 }
