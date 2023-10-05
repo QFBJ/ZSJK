@@ -21,21 +21,18 @@
             "name": "🐉云星日记"
         },
         {
+            "url": "http://tvbox.vip/4k",
+            "name": "🐉4K视界"
+        },
+        
+        {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🐉小米路线"
         },
-        {
-            "url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json",
-            "name": "🐉香雅情线路"
-        },           
         
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🐉运输车线路"
-        },
-        {
-            "url": "https://download.kstore.space/download/3313/mao/ymxx",
-            "name": "🐉夜猫子线路"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
