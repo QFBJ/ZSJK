@@ -43,10 +43,13 @@
             "name": "🐉道长线路"
         },
         {
-            "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
-            "name": "🐉业余分享"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
+            "name": "🐉业余分享主"
         },
-        
+        {
+            "url": "http://111.67.195.139/yydf/yyffjk.json",
+            "name": "🐉业余分享备"
+        },        
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "🐉菜妮丝线路"
