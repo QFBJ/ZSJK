@@ -34,11 +34,20 @@
         },
         
         {
-            "url": "http://m.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
             "name": "🐉PG线路"
         },
+         
+        {
+            "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "name": "🐉业余线路"
+        },
         
-        
+        {
+            "url": "http://sx.liuyun.wang:88/img",
+            "name": "🐉神仙线路"
+        },
+                               
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🐉小米线路"
@@ -158,6 +167,39 @@
             "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
             "name": "🐉胖鸭线路"
         },
+         
+        {
+            "url": "https://tv.lan2wan.top/candymuj.json",
+            "name": "🐉看电影线路"
+        },
+        
+        {
+            "url": "https://lltv8.top",
+            "name": "🐉猎狼路线"
+        },          
+               
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "🐉万达线路"
+        },
+        
+        {
+            "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/config.json",
+            "name": "kvymin线路"
+        },
+        
+         
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "🐉小胡线路"
+        },
+        
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "🐉喵线路"
+        },
+                    
+       
         {
             "url": "https://www.bestpvp.site/关注码上放生/时光机",
             "name": "🐉码上时光机"
@@ -230,7 +272,7 @@
         
         {
             "url": "http://miaotvs.cn/meow",
-            "name": "🐉喵影视线路"
+            "name": "🐉喵喵影视线路"
         },
         
         {
